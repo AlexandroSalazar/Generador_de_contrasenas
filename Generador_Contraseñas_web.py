@@ -1,3 +1,5 @@
+
+#este es el generador de contraseñas
 import random
 
 def generar_contrasena():
